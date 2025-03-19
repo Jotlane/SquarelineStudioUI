@@ -1,0 +1,18 @@
+{
+  "codename": "Thai",
+  "ttf_path": "/assets/NotoSansThai-Regular.ttf",
+  "bin_path": "/assets\\ui_font_Thai.bin",
+  "c_path": "/assets\\ui_font_Thai.c",
+  "cfg_path": "/assets\\ui_font_Thai.fcfg",
+  "size": 16,
+  "bpp": 1,
+  "letters": 0,
+  "ranges": [
+    "0x0E00-0x0E50",
+    "  0x2000-0x206F",
+    "  0x0020-0x007F"
+  ],
+  "symbols": " ",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}

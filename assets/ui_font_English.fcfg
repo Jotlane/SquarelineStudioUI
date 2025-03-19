@@ -1,0 +1,16 @@
+{
+  "codename": "English",
+  "ttf_path": "/assets/NotoSans-Regular.ttf",
+  "bin_path": "/assets\\ui_font_English.bin",
+  "c_path": "/assets\\ui_font_English.c",
+  "cfg_path": "/assets\\ui_font_English.fcfg",
+  "size": 16,
+  "bpp": 1,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
