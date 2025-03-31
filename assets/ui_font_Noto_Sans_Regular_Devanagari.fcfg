@@ -5,12 +5,12 @@
   "c_path": "/assets\\ui_font_Noto_Sans_Regular_Devanagari.c",
   "cfg_path": "/assets\\ui_font_Noto_Sans_Regular_Devanagari.fcfg",
   "size": 16,
-  "bpp": 4,
+  "bpp": 2,
   "letters": 0,
   "ranges": [
     "0x0020-0x007F",
-    " 0x0900-0x097F",
-    " 0x2000-0x206F"
+    "  0x0900-0x097F",
+    "  0x2000-0x206F"
   ],
   "symbols": "",
   "customparams": "--no-compress --no-prefilter",
