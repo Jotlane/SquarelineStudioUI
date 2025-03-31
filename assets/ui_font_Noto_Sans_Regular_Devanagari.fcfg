@@ -1,0 +1,18 @@
+{
+  "codename": "Noto_Sans_Regular_Devanagari",
+  "ttf_path": "/assets/NotoSansDevanagari-Regular.ttf",
+  "bin_path": "/assets\\ui_font_Noto_Sans_Regular_Devanagari.bin",
+  "c_path": "/assets\\ui_font_Noto_Sans_Regular_Devanagari.c",
+  "cfg_path": "/assets\\ui_font_Noto_Sans_Regular_Devanagari.fcfg",
+  "size": 16,
+  "bpp": 4,
+  "letters": 0,
+  "ranges": [
+    "0x0020-0x007F",
+    " 0x0900-0x097F",
+    " 0x2000-0x206F"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
